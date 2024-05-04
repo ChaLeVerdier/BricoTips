@@ -1,0 +1,10 @@
+# Ignorer l'index
+/index.php
+
+# Ignorer le fichier languages
+/languages
+
+# Ignorer les dossier  /updraft & /uploads
+/upgrade
+/uploads
+
